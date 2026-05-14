@@ -29,7 +29,7 @@ Built as a **multi-dashboard Tableau Story**, the project goes from raw workforc
 
 > *Who is at risk, and how bad is it?*
 
-![Dashboard 1](screenshots/Screenshot__346_.png)
+![Dashboard 1](screenshots/Screenshot_(1).png)
 
 **Key Metrics Visualized:**
 - 📍 **30%** of job roles are at high automation risk
@@ -49,7 +49,7 @@ Built as a **multi-dashboard Tableau Story**, the project goes from raw workforc
 
 > *How ready are we, and where are we falling behind?*
 
-![Dashboard 2](screenshots/Screenshot__345_.png)
+![Dashboard 2](screenshots/Screenshot_(2).png)
 
 **Key Metrics Visualized:**
 - 📈 Average AI Adoption Level: **53.13%**
@@ -69,7 +69,7 @@ Built as a **multi-dashboard Tableau Story**, the project goes from raw workforc
 
 > *From data to decisions.*
 
-![Story View](screenshots/Screenshot__347_.png)
+![Story View](screenshots/Screenshot_(3).png)
 
 **Key Insights:**
 - Several job roles face high automation risk and require reskilling
