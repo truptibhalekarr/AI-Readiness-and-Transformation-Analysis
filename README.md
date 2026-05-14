@@ -69,7 +69,7 @@ Built as a **multi-dashboard Tableau Story**, the project goes from raw workforc
 
 > *From data to decisions.*
 
-![Story View](screenshots/Screenshot_(3).png)
+![Story View](screenshots/Screenshot_(347).png)
 
 **Key Insights:**
 - Several job roles face high automation risk and require reskilling
