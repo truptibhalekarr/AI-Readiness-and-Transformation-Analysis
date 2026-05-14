@@ -98,20 +98,6 @@ Built as a **multi-dashboard Tableau Story**, the project goes from raw workforc
 
 ---
 
-## 📁 File Structure
-
-```
-📦 Workforce-AI-Analysis-Tableau
- ┣ 📊 Tableau_Project_TB.twbx       ← Main Tableau Packaged Workbook
- ┣ 📁 screenshots/
- ┃ ┣ 🖼️ Screenshot__345_.png        ← Dashboard 2: AI Readiness
- ┃ ┣ 🖼️ Screenshot__346_.png        ← Dashboard 1: Automation Risk
- ┃ ┗ 🖼️ Screenshot__347_.png        ← Story: Strategic Recommendations
- ┗ 📄 README.md
-```
-
----
-
 ## 💡 What This Project Demonstrates
 
 - ✅ End-to-end **data storytelling** — from raw data to boardroom recommendations
