@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Workforce%20AI%20Analysis&fontSize=42&fontColor=e94560&fontAlignY=38&desc=Tableau%20Dashboard%20%7C%20Data%20Storytelling%20%7C%20Strategic%20HR%20Insights&descAlignY=58&descSize=16&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Workforce%20AI%20Analysis&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Tableau%20Dashboard%20%7C%20Data%20Storytelling%20%7C%20Strategic%20HR%20Insights&descAlignY=58&descSize=16&animation=fadeIn)
 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
