@@ -114,7 +114,6 @@ Built as a **multi-dashboard Tableau Story**, the project goes from raw workforc
 
 [![GitHub](https://img.shields.io/badge/GitHub-truptibhalekarr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/truptibhalekarr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/truptibhalekarr)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-truptibhalekarr-FFD21E?style=for-the-badge)](https://huggingface.co/truptibhalekarr)
 
 *Building AI systems that make data analysis accessible, automated, and actionable* 🤖
 
